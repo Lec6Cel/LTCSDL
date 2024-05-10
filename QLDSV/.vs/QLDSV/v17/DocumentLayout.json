@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|d:\\cuongfile\\ltcsdl\\ltcsdl\\qldsv\\qldsv\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|solutionrelative:qldsv\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\qldsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|solutionrelative:qldsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\qldsv\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|solutionrelative:qldsv\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\qldsv\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|solutionrelative:qldsv\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\qldsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|solutionrelative:qldsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\qldsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|solutionrelative:qldsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\qldsv\\firstdbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{80CF3FC3-BA1F-401A-AA7B-2B038FB01AB5}|QLDSV\\QLDSV.csproj|solutionrelative:qldsv\\firstdbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\Form1.cs",
+              "RelativeDocumentMoniker": "QLDSV\\Form1.cs",
+              "ToolTip": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\Form1.cs",
+              "RelativeToolTip": "QLDSV\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:12:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modify.cs",
+              "DocumentMoniker": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\modify.cs",
+              "RelativeDocumentMoniker": "QLDSV\\modify.cs",
+              "ToolTip": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\modify.cs",
+              "RelativeToolTip": "QLDSV\\modify.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwDwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:12:50.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\Form1.cs",
+              "RelativeDocumentMoniker": "QLDSV\\Form1.cs",
+              "ToolTip": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\Form1.cs [Design]",
+              "RelativeToolTip": "QLDSV\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:12:50.423Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "firstDBDataSet1.xsd",
+              "DocumentMoniker": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\firstDBDataSet1.xsd",
+              "RelativeDocumentMoniker": "QLDSV\\firstDBDataSet1.xsd",
+              "ToolTip": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\firstDBDataSet1.xsd",
+              "RelativeToolTip": "QLDSV\\firstDBDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-05-10T15:12:50.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\SinhVien.cs",
+              "RelativeDocumentMoniker": "QLDSV\\SinhVien.cs",
+              "ToolTip": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\SinhVien.cs",
+              "RelativeToolTip": "QLDSV\\SinhVien.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:12:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "connection.cs",
+              "DocumentMoniker": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\connection.cs",
+              "RelativeDocumentMoniker": "QLDSV\\connection.cs",
+              "ToolTip": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\connection.cs",
+              "RelativeToolTip": "QLDSV\\connection.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:12:50.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\Program.cs",
+              "RelativeDocumentMoniker": "QLDSV\\Program.cs",
+              "ToolTip": "D:\\Cuongfile\\LTCSDL\\LTCSDL\\QLDSV\\QLDSV\\Program.cs",
+              "RelativeToolTip": "QLDSV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:12:50.614Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
